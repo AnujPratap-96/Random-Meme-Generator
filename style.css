@@ -20,6 +20,9 @@ body{
     max-width: 500px;
     padding: 5px 30px;
     background: linear-gradient(135deg, #b271bb,#235462);
+    border-radius: 10px;
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.3), -5px -5px 30px rgba(0, 0, 0, 0.3);
+    border: 1px solid #eb94ef;
 }
 
 h1{
